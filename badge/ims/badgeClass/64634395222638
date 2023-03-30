@@ -1,11 +1,11 @@
 {
 "@context": "https://w3id.org/openbadges/v2",
 "type": "BadgeClass",
-"id": "https://verified.cv:3000/v2/ims/badgeClass/64634395222638",
+"id": "https://github.com/daniela-veloz/daniela-lab/blob/main/badge/ims/badgeClass/64634395222638",
 "name": "A11y Testing Skill",
 "description": "This skill will enable employees to contribute to our Recruit & Indeed level company goals by testing products across the company against A11y standards.\n",
-"issuer": "https://verified.cv:3000/v2/ims/issuer/64634395222638",
-"image": "https://verified-bucket.s3.eu-central-1.amazonaws.com/badge/64634395222638.png",
+"issuer": "https://github.com/daniela-veloz/daniela-lab/blob/main/badge/ims/issuer/64634395222638",
+"image": "https://github.com/daniela-veloz/daniela-lab/blob/main/badge/ims/image/64634395222638.png",
 "criteria": {
 "narrative": "To earn this badge, requirements are met "
 },

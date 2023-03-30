@@ -1,9 +1,9 @@
 {
 "@context": "https://w3id.org/openbadges/v2",
 "type": "Assertion",
-"id": "https://verified.cv:3000/v2/ims/64634395222638",
-"badge": "https://verified.cv:3000/v2/ims/badgeClass/64634395222638",
-"image": "https://verified.cv:3000/v2/ims/image/64634395222638",
+"id": "https://github.com/daniela-veloz/daniela-lab/blob/main/badge/ims/64634395222638",
+"badge": "https://github.com/daniela-veloz/daniela-lab/blob/main/badge/ims/badgeClass/64634395222638",
+"image": "https://github.com/daniela-veloz/daniela-lab/tree/main/badge/ims/image/64634395222638",
 "verification": {
 "type": "HostedBadge"
 },
