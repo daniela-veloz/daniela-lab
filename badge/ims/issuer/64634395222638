@@ -1,0 +1,8 @@
+{
+"@context": "https://w3id.org/openbadges/v2",
+"type": "Issuer",
+"id": "https://verified.cv:3000/v2/ims/issuer/64634395222638",
+"name": "acsi",
+"url": "https://www.sertifier.com",
+"email": "info@sertifier.com"
+}

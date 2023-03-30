@@ -1,0 +1,17 @@
+{
+"@context": "https://w3id.org/openbadges/v2",
+"type": "Assertion",
+"id": "https://verified.cv:3000/v2/ims/64634395222638",
+"badge": "https://verified.cv:3000/v2/ims/badgeClass/64634395222638",
+"image": "https://verified.cv:3000/v2/ims/image/64634395222638",
+"verification": {
+"type": "HostedBadge"
+},
+"issuedOn": "2023-03-09T21:21:09.942Z",
+"recipient": {
+"type": "email",
+"hashed": false,
+"identity": "daniela.veloz@gmail.com"
+},
+"evidence": []
+}
